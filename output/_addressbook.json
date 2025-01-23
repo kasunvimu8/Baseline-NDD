@@ -1,0 +1,183 @@
+{
+  "Login": [
+    "index"
+  ],
+  "SignUp": [
+    "state3"
+  ],
+  "ResetPassword": [
+    "state5"
+  ],
+  "BasicLogin": [
+    "state6"
+  ],
+  "SignUpError": [
+    "state8"
+  ],
+  "Home": [
+    "state10",
+    "state50",
+    "state54",
+    "state60",
+    "state64",
+    "state68"
+  ],
+  "AddAddress": [
+    "state16"
+  ],
+  "URLNotFoundError": [
+    "state24"
+  ],
+  "Blank": [
+    "state27"
+  ],
+  "Groups": [
+    "state29"
+  ],
+  "NextBirthdaysNoEntry": [
+    "state33"
+  ],
+  "EmptyPrint": [
+    "state38"
+  ],
+  "AboutPage": [
+    "state39"
+  ],
+  "BasicLoginError": [
+    "state57"
+  ],
+  "AddUserToGroupError": [
+    "state75"
+  ],
+  "AddressAddedInfo": [
+    "state138"
+  ],
+  "PrintPhones": [
+    "state141",
+    "state239",
+    "state293",
+    "state331",
+    "state364",
+    "state409",
+    "state455",
+    "state543",
+    "state593",
+    "state677"
+  ],
+  "HomeWithEntry": [
+    "state143",
+    "state150",
+    "state165",
+    "state176",
+    "state196",
+    "state199",
+    "state211",
+    "state243",
+    "state247",
+    "state249",
+    "state252",
+    "state269",
+    "state272",
+    "state308",
+    "state310",
+    "state315",
+    "state318",
+    "state344",
+    "state346",
+    "state349",
+    "state392",
+    "state397",
+    "state400",
+    "state403",
+    "state407",
+    "state420",
+    "state432",
+    "state434",
+    "state437",
+    "state443",
+    "state479",
+    "state489",
+    "state506",
+    "state508",
+    "state512",
+    "state514",
+    "state517",
+    "state520",
+    "state523",
+    "state526",
+    "state529",
+    "state532",
+    "state536",
+    "state538",
+    "state550",
+    "state563",
+    "state566",
+    "state575",
+    "state583",
+    "state597",
+    "state606",
+    "state679",
+    "state681",
+    "state686",
+    "state690",
+    "state692",
+    "state697",
+    "state700",
+    "state703",
+    "state706",
+    "state709",
+    "state713",
+    "state715",
+    "state718",
+    "state721",
+    "state724",
+    "state727"
+  ],
+  "AddGroup": [
+    "state162"
+  ],
+  "DeleteGroupConfirm": [
+    "state173"
+  ],
+  "UpdateGroup": [
+    "state180"
+  ],
+  "NextBirthdays": [
+    "state187",
+    "state202",
+    "state216",
+    "state275",
+    "state321",
+    "state378",
+    "state389",
+    "state459",
+    "state560"
+  ],
+  "PrintAll": [
+    "state233",
+    "state257",
+    "state278",
+    "state340",
+    "state355",
+    "state412",
+    "state464",
+    "state504",
+    "state589"
+  ],
+  "PrintEntry": [
+    "state493",
+    "state619",
+    "state634",
+    "state647",
+    "state656",
+    "state668"
+  ],
+  "UpdateEntry": [
+    "state501",
+    "state624",
+    "state638",
+    "state651",
+    "state660",
+    "state674"
+  ]
+}

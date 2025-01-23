@@ -1,0 +1,263 @@
+{
+  "LostPasswordEmailError": [
+    "state1019",
+    "state203",
+    "state892",
+    "state165"
+  ],
+  "CreateUserAccount": [
+    "state9",
+    "state173",
+    "state563",
+    "state723",
+    "state1028",
+    "state697",
+    "state194",
+    "state1274",
+    "state355",
+    "state876",
+    "state918",
+    "state1179",
+    "state770",
+    "state522",
+    "state1065",
+    "state1184",
+    "state273",
+    "state1191",
+    "state304"
+  ],
+  "AuthenticationRequired": [
+    "state52",
+    "state170",
+    "state4",
+    "state572",
+    "state689",
+    "state55",
+    "state58",
+    "state186",
+    "state178",
+    "state971",
+    "state734",
+    "state49",
+    "state102",
+    "state500",
+    "state107",
+    "state1150",
+    "state1287",
+    "state1204",
+    "state199",
+    "state515",
+    "state913",
+    "state92",
+    "state97",
+    "state122",
+    "state364",
+    "state247",
+    "state764",
+    "state1174",
+    "state406",
+    "state889",
+    "state378",
+    "state531",
+    "state258",
+    "state938",
+    "state392",
+    "state270",
+    "state550",
+    "state670",
+    "state301",
+    "state425",
+    "state1008",
+    "state280",
+    "state1243",
+    "state162",
+    "state710",
+    "state67"
+  ],
+  "MyUserAccountEmptyFieldError": [
+    "state1256",
+    "state1332"
+  ],
+  "LostPassword": [
+    "state7"
+  ],
+  "MyUserAccount": [
+    "state1099",
+    "state442",
+    "state206",
+    "state449",
+    "state608",
+    "state1309",
+    "state1267",
+    "state1264",
+    "state581",
+    "state1304",
+    "state211",
+    "state850",
+    "state459",
+    "state1261",
+    "state216",
+    "state737",
+    "state618",
+    "state1319",
+    "state1316",
+    "state191",
+    "state473",
+    "state231",
+    "state1038",
+    "state1159",
+    "state593",
+    "state221",
+    "state466",
+    "state586",
+    "state740",
+    "state226",
+    "state505",
+    "state629",
+    "state480",
+    "state596",
+    "state29",
+    "state236",
+    "state1337",
+    "state18",
+    "state641",
+    "state1054",
+    "state643",
+    "state1102",
+    "state1343",
+    "state653",
+    "state1340",
+    "state1062",
+    "state1074",
+    "state62",
+    "state1123",
+    "state283",
+    "state1369",
+    "state560",
+    "state1083",
+    "state1120",
+    "state557"
+  ],
+  "Login": [
+    "state2",
+    "index",
+    "state20"
+  ],
+  "CreateUserAccountEmptyFieldError": [
+    "state692",
+    "state993",
+    "state1295",
+    "state921",
+    "state1228",
+    "state381"
+  ],
+  "SE123AuthenticationRequired": [
+    "state720",
+    "state1225",
+    "state537",
+    "state954"
+  ],
+  "Home": [
+    "state841",
+    "state39",
+    "state636",
+    "state13"
+  ],
+  "LoginSearchNoResult": [
+    "state326",
+    "state46",
+    "state873",
+    "state22",
+    "state1290",
+    "state767",
+    "state311"
+  ],
+  "UserCourse": [
+    "state603",
+    "state31"
+  ],
+  "UserStatistics": [
+    "state848",
+    "state974",
+    "state743",
+    "state866",
+    "state27",
+    "state775",
+    "state790"
+  ],
+  "PlatformCourses": [
+    "state35"
+  ],
+  "PlatformCoursesCategorySelect": [
+    "state626"
+  ],
+  "UserCourseRemove": [
+    "state33"
+  ],
+  "ChangeNotificationDate": [
+    "state37"
+  ],
+  "LostPasswordEmailError_AfterLogin": [
+    "state906",
+    "state895"
+  ],
+  "MyMessagesOutboxSearch": [
+    "state1325"
+  ],
+  "UserCourseSearchNoResult": [
+    "state1057",
+    "state1354"
+  ],
+  "SE123HomeNoLogin": [
+    "state1211",
+    "state395"
+  ],
+  "MyMessagesOutbox": [
+    "state130"
+  ],
+  "SE123DescriptionNoLogin": [
+    "state1216"
+  ],
+  "LostPasswordAfterLogin": [
+    "state253"
+  ],
+  "LoginCategoryBrowse": [
+    "state11"
+  ],
+  "UserCourseCategorySelect": [
+    "state803"
+  ],
+  "MyMessagesInbox": [
+    "state16",
+    "state143",
+    "state147"
+  ],
+  "SE123AgendaNoLogin": [
+    "state1220"
+  ],
+  "MyMessagesTrashboxSearch": [
+    "state1347"
+  ],
+  "MyMessagesTrashbox": [
+    "state134"
+  ],
+  "MyMessagesAdvancedSearch": [
+    "state138"
+  ],
+  "LoginCategorySelect_SearchNoResult": [
+    "state534"
+  ],
+  "MyMessagesInboxSearch": [
+    "state151"
+  ],
+  "LoginCategorySearchNoResult": [
+    "state941"
+  ],
+  "PlatformCourseSearchNoResult": [
+    "state828",
+    "state1086"
+  ],
+  "SE123HideNavNoLogin": [
+    "state949"
+  ]
+}
