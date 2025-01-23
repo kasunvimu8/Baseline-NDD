@@ -1,3 +1,4 @@
+# This repository is a ported version of the original WEBEMBED paper(https://arxiv.org/pdf/2306.07400)  with data refining
 # Doc2Vec_embedding_for_html
 This repo uses Doc2vec and embeddings to distinguish between clone and distinct html pages (states) <br>
 
