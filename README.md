@@ -1,5 +1,6 @@
-# This repository is a ported version of the original WEBEMBED paper(https://arxiv.org/pdf/2306.07400)  with data refining
 # Doc2Vec_embedding_for_html
+This repository is a ported version of the original WEBEMBED paper(https://arxiv.org/pdf/2306.07400)  with some data refining
+
 This repo uses Doc2vec and embeddings to distinguish between clone and distinct html pages (states) <br>
 
 The dataset used to train the model and the trained model can be found at the following link: https://e1.pcloud.link/publink/show?code=kZCvXzZN8GHDg1TydR2471NTPGLWFmyyu4V. <br> Add them to the git repository to run the scripts and reproduce the results. The scripts must be run from the same folder in which they are stored. <br>
