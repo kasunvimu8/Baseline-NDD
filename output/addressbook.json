@@ -1,19 +1,54 @@
 {
-  "Login": ["index"],
-  "SignUp": ["state3"],
-  "ResetPassword": ["state5"],
-  "BasicLogin": ["state6"],
-  "SignUpError": ["state8"],
-  "Home": ["state10", "state50", "state54", "state60", "state64", "state68"],
-  "AddAddress": ["state16"],
-  "URLNotFoundError": ["state24"],
-  "Groups": ["state29"],
-  "NextBirthdaysNoEntry": ["state33"],
-  "EmptyPrint": ["state38"],
-  "AboutPage": ["state39"],
-  "BasicLoginError": ["state57"],
-  "AddUserToGroupError": ["state75"],
-  "AddressAddedInfo": ["state138"],
+  "Login": [
+    "index"
+  ],
+  "SignUp": [
+    "state3"
+  ],
+  "ResetPassword": [
+    "state5"
+  ],
+  "BasicLogin": [
+    "state6"
+  ],
+  "SignUpError": [
+    "state8"
+  ],
+  "Home": [
+    "state10",
+    "state50",
+    "state54",
+    "state60",
+    "state64",
+    "state68"
+  ],
+  "AddAddress": [
+    "state16"
+  ],
+  "URLNotFoundError": [
+    "state24"
+  ],
+  "Groups": [
+    "state29"
+  ],
+  "NextBirthdaysNoEntry": [
+    "state33"
+  ],
+  "EmptyPrint": [
+    "state38"
+  ],
+  "AboutPage": [
+    "state39"
+  ],
+  "BasicLoginError": [
+    "state57"
+  ],
+  "AddUserToGroupError": [
+    "state75"
+  ],
+  "AddressAddedInfo": [
+    "state138"
+  ],
   "PrintPhones": [
     "state141",
     "state239",
@@ -95,9 +130,15 @@
     "state724",
     "state727"
   ],
-  "AddGroup": ["state162"],
-  "DeleteGroupConfirm": ["state173"],
-  "UpdateGroup": ["state180"],
+  "AddGroup": [
+    "state162"
+  ],
+  "DeleteGroupConfirm": [
+    "state173"
+  ],
+  "UpdateGroup": [
+    "state180"
+  ],
   "NextBirthdays": [
     "state187",
     "state202",

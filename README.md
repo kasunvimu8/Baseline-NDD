@@ -1,5 +1,5 @@
-# Doc2Vec_embedding_for_html
-This repository is a ported version of the original WEBEMBED paper(https://arxiv.org/pdf/2306.07400)  with some data refining
+# Baseline - Near Duplicate Detection
+This repository is a updated version of the original WEBEMBED repository highlighted in paper(https://arxiv.org/pdf/2306.07400)  with some script and data refining together with FRAGGEN (https://arxiv.org/abs/1106.1813) method evaluations.
 
 This repo uses Doc2vec and embeddings to distinguish between clone and distinct html pages (states) <br>
 
